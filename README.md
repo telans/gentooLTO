@@ -3,8 +3,6 @@
 [![Build Status](https://travis-ci.org/InBetweenNames/gentooLTO.svg?branch=master)](https://travis-ci.org/InBetweenNames/gentooLTO)
 [![Gitter](https://badges.gitter.im/gentooLTO/community.svg)](https://gitter.im/gentooLTO/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[Bosnian, Cyrillic (Босански)](/README_bs-Cyril.md) | [Bosnian, Latin (Bosanski)](/README_bs-Latn.md) | [Serbian (Српски)](/README_sr.md) | [Croatian (Hrvatski)](/README_hr.md)
-
 ---
 
 This is a living document. It will be kept in sync with the project as it grows.
